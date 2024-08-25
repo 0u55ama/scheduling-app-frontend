@@ -20,3 +20,4 @@ const fetchData = async (url: string, options = {}) => {
 };
 
 export default fetchData;
+
